@@ -3,7 +3,7 @@
 
 ## Screenshots
 ![](screenshot/screenshot2.png)
-Trying to gues ....
+Trying to guess ....
 
 ![](screenshot/screenshot1.png)
 You cracked it !!
